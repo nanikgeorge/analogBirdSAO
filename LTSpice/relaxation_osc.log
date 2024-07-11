@@ -1,0 +1,49 @@
+Circuit: * Z:\home\nanik\Documents\analogBirdSAO\relaxation_osc.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+vernier = 0.25
+Gmin = 0.000562332
+vernier = 0.333333
+Gmin = 0.000272964
+vernier = 0.444444
+vernier = 0.592592
+Gmin = 8.34773e-005
+vernier = 0.790123
+vernier = 1
+Gmin = 1.37415e-005
+Gmin = 1.47548e-006
+Gmin = 1.58428e-007
+Gmin = 1.70111e-008
+Gmin = 1.82655e-009
+Gmin = 1.96125e-010
+Gmin = 2.10587e-011
+Gmin = 2.26116e-012
+Gmin = 2.4279e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Sun Apr 21 22:54:03 2024
+Total elapsed time: 0.050 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 12629
+traniter = 11985
+tranpoints = 3704
+accept = 2917
+rejected = 787
+matrix size = 6
+fillins = 1
+solver = Normal
+Matrix Compiler1:      18 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2:      41 opcodes  0.1/[0.1]/0.2
+
