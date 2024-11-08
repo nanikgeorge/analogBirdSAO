@@ -6,3 +6,6 @@ It is my attempt at making an analog circuit that mimics a bird call, inspired b
 What is an SAO? Here's a Hackaday article about that: [https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/)
 
 The Open Source Hardware Conference (it was a lot of fun you should attend next year): [https://2024.oshwa.org/](https://2024.oshwa.org/)
+
+The Open Source Hardware Conference is in Edinburgh next year! [https://2025.oshwa.org/](https://2025.oshwa.org/)
+
